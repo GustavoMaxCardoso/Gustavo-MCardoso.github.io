@@ -47,9 +47,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   Minha trajetória é marcada por hands-on experience e autonomia. Após um estágio enriquecedor na prefeitura, onde dei os primeiros passos em redes, protocolos e segurança, assumi meu primeiro emprego formal como o único responsável pelo setor de TI, onde aprendi na prática a correr atrás de soluções para os mais variados desafios.
   
-  Hoje, gerencio toda a infraestrutura de TI de 7 lojas, incluindo a administração de 10 servidores, redes e suporte. Minha abordagem é proativa: desenvolvi e implemento uma NOC (Network Operations Center) personalizada usando <a href="/images/zabbix_dashboard.png" target="_blank" rel="noopener noreferrer">Zabbix</a> e Grafana para monitoramento em tempo real, e estou liderando o projeto de migração e modernização da rede central, trocando dispositivos Mikrotik por Ubiquiti Cloud Ultra Gateway.
+  Hoje, gerencio toda a infraestrutura de TI de 7 lojas, incluindo a administração de 10 servidores, redes e suporte. Minha abordagem é proativa: desenvolvi e implemento uma NOC (Network Operations Center) personalizada usando <a href="Gustavo-MCardoso.github.io/images/zabbix_dashboard.png" target="_blank" rel="noopener noreferrer">Zabbix</a> e Grafana para monitoramento em tempo real, e estou liderando o projeto de migração e modernização da rede central, trocando dispositivos Mikrotik por Ubiquiti Cloud Ultra Gateway.
 
-  Estou finalizando minha <a href="/images/pos_grade_curricular.jpeg" target="_blank" rel="noopener noreferrer">pós-graduação em Arquitetura de Software</a> e busco constantemente cursos e atualizações para aliar minha sólida base de infraestrutura com as melhores práticas de desenvolvimento e arquitetura de sistemas. Meu objetivo é evoluir para posições que unam a operação de TI com o planejamento estratégico, criando soluções robustas, escaláveis e que tragam resultados tangíveis.
+  Estou finalizando minha <a href="Gustavo-MCardoso.github.io/images/pos_grade_curricular.jpeg" target="_blank" rel="noopener noreferrer">pós-graduação em Arquitetura de Software</a> e busco constantemente cursos e atualizações para aliar minha sólida base de infraestrutura com as melhores práticas de desenvolvimento e arquitetura de sistemas. Meu objetivo é evoluir para posições que unam a operação de TI com o planejamento estratégico, criando soluções robustas, escaláveis e que tragam resultados tangíveis.
 
 
 content:
@@ -123,7 +123,7 @@ content:
         quote: >
           Instituição de ensino superior com foco em tecnologia e engenharia
         description: | # this will include new lines to allow paragraphs
-          Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br> <a href="/assets/documents/Diploma_Facens.PDF" target="_blank" rel="noopener noreferrer"><strong>Certificado de Conclusão</strong></a>
+          Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br> <a href="Gustavo-MCardoso.github.io/assets/documents/Diploma_Facens.PDF" target="_blank" rel="noopener noreferrer"><strong>Certificado de Conclusão</strong></a>
    
   - title: Um pouco mais sobre mim
     layout: text
