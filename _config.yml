@@ -63,9 +63,9 @@ content:
         link: https://github.com/GustavoMaxCardoso/Projeto-MarketFlow
         link_text: Link para o repositório do projeto
         description: | # this will include new lines to allow paragraphs
-          Sistema completo para automação de mercados desenvolvido em Java, incluindo PDV, controle de estoque, gestão financeira e relatórios analíticos. Trabalhei no backend e frontend, aplicando arquitetura MVC e metodologias ágeis.
+          Sistema completo para automação de mercados desenvolvido em Java, incluindo PDV, controle de estoque, gestão financeira e relatórios analíticos. Trabalhei no backend e frontend, aplicando arquitetura MVC e metodologias ágeis. Desenvolvido em equipe de 6 pessoas durante a faculdade, tendo experiencia de Git colaborativo.
 
-          **Tecnologias:** Java, MySQL, Git, MVC
+          **Tecnologias:** Java, MySQL, Git, MVC<br>
           **Funcionalidades:** PDV, Controle de Estoque, Relatórios Financeiros
   - title: Experiencia
     layout: list
