@@ -123,15 +123,39 @@ content:
         quote: >
           Instituição de ensino superior com foco em tecnologia e engenharia
         description: | # this will include new lines to allow paragraphs
-          Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br> [**Ver Certificado de Conclusão**](/assets/documents/Diploma_Facens.PDF)
-        link: (/assets/documents/Diploma_Facens.PDF)
-        link_text: Diploma Facens   
+          Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br> [**Certificado de Conclusão**](/assets/documents/Diploma_Facens.PDF)
+   
   - title: Um pouco mais sobre mim
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          **CERTIFICAÇÕES E QUALIFICAÇÕES**<br>
+          - **UDEMY:** Certificado em CFL-C02, CCNA 200-301 e SQL Server<br>
+          - **Instituto Brasileiro de Cibersegurança (IBSEC):** Certificado em IC-INF-1970<br>
+          - Demonstrado comprometimento contínuo com o aprimoramento profissional através de certificações especializadas<br>
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          **HABILIDADES TÉCNICAS**<br>
+    
+          **Linguagens de Programação:**<br>
+          - Python e Java<br>
+
+          **Desenvolvimento Web:**<br>
+          - HTML5, CSS3, JavaScript<br>
+          - Frameworks: Angular, Node.js, React<br>
+
+          **Banco de Dados:**<br>
+          - MySQL, SQL Server, MongoDB<br>
+
+          **Ferramentas e Tecnologias:**<br>
+          - IDEs: VSCode<br>
+          - Frameworks: Spring Boot, React, Angular<br>
+          - Controle de Versão: Git<br>
+          - Gerenciamento de Projetos: JIRA<br>
+          - Banco de Dados: MongoDB Compass<br>
+
+          **Competências Comportamentais**<br>
+          - Autodidata e proativo na busca por novos conhecimentos<br>
+          - Capacidade de trabalhar em equipe e comunicar ideias técnicas<br>
+          - Adaptabilidade para aprender novas tecnologias rapidamente
 
 # Footer
 footer_show_references: false
