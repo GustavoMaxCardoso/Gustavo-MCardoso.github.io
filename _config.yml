@@ -18,7 +18,7 @@ phone: (15) 98823-9949
 darkmode: false
 
 # Social links
-github_username:  Gustavo-MCardoso
+github_username:  GustavoMaxCardoso
 instagram_username: _gustavo_crds
 linkedin_username: gustavo-cardoso-876238238
 
@@ -59,8 +59,8 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Projeto MarktFlow
+        link: https://github.com/GustavoMaxCardoso/Projeto-MarketFlow
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
