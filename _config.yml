@@ -108,13 +108,24 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: FACENS Sorocaba
+        sub_title: Pós-Graduação em Engenharia de Software
+        caption: 2025 - 2027 (Previsão)
         quote: >
-          Short institution or course description (optional)
+          Instituição de ensino superior com foco em tecnologia e engenharia
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Pós-graduação com foco em arquitetura de software, Big Data & Business Analytics, Methodologies Agile Project Management & Digital Product, 	Ux Design & Digital Experience, Cloud Computing, 	Cyber Security in Applications, DevOps, 	Full Stack Developer e Machine Learning & Deep Learning. Previsão de conclusão para o 1º semestre de 2027.<br>
+
+      - layout: top-right
+        title: FACENS Sorocaba
+        sub_title: Graduação em Análise e Desenvolvimento de Sistemas
+        caption: 2022 - 2024
+        quote: >
+          Instituição de ensino superior com foco em tecnologia e engenharia
+        description: | # this will include new lines to allow paragraphs
+          Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br>
+        link: /documents/Diploma_Facens.PDF<br>
+        link_text: Diploma Facens   
   - title: Um pouco mais sobre mim
     layout: text
     content: | # this will include new lines to allow paragraphs
