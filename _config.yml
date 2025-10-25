@@ -123,7 +123,7 @@ content:
         quote: >
           Instituição de ensino superior com foco em tecnologia e engenharia
         description: | # this will include new lines to allow paragraphs
-          Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br> <a href="/assets/documents/Diploma_Facens.PDF" target="_blank" rel="noopener noreferrer"><strong>Ver Certificado de Conclusão</strong></a>
+          Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br> <a href="/assets/documents/Diploma_Facens.PDF" target="_blank" rel="noopener noreferrer"><strong>Certificado de Conclusão</strong></a>
    
   - title: Um pouco mais sobre mim
     layout: text
