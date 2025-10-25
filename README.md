@@ -8,7 +8,7 @@ Bem-vindo ao repositório do meu currículo online! Este projeto é uma represen
 
 ## ✨ Demonstração
 
-Confira o currículo em ação: [https://gustavomaxcardoso.github.io](https://gustavomaxcardoso.github.io/Gustavo-MCardoso.github.io/)
+Confira o currículo em ação: [https://gustavomaxcardoso.github.io](https://gustavomaxcardoso.github.io)
 
 ## 🚀 Sobre o Projeto
 
