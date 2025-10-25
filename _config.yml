@@ -67,18 +67,43 @@ content:
 
           **Tecnologias:** Java, MySQL, Git, MVC<br>
           **Funcionalidades:** PDV, Controle de Estoque, Relatórios Financeiros
-  - title: Experiencia
+  - title: Experiência
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Rede Almodovar - Fazfarma
+        sub_title: Técnico em TI
+        caption: Mar 2024 - Atualmente
+        link: https://www.fazfarma.com.br
         quote: >
-          Short description of the company (optional)
+          Rede de farmácias com múltiplas unidades.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Promovido de Auxiliar de TI para Técnico em TI em Outubro de 2025. Responsável pela infraestrutura completa de TI de 7 lojas.
+        
+          **Principais atividades e conquistas:**<br>
+          - Gestão completa de infraestrutura: 10 servidores, redes e sistemas de segurança<br>
+          - Desenvolvimento e implementação de NOC (Network Operations Center) usando Zabbix e Grafana<br>
+          - Liderança do projeto de migração de rede (Mikrotik para Ubiquiti Cloud Ultra Gateway)<br>
+          - Suporte técnico aos usuários e manutenção de hardware/software<br>
+          - Responsável por compras e negociação de contratos do setor de TI<br>
+          - Administração de sistemas e gestão de redes<br>
+
+      - layout: right
+        title: Prefeitura Municipal de Salto de Pirapora
+        sub_title: Estagiário de Tecnologia da Informação
+        caption: Nov 2022 - Mar 2024
+        link: https://www.saltodepirapora.sp.gov.br
+        quote: >
+          Órgão público municipal.
+        description: | # this will include new lines to allow paragraphs
+          Estágio em TI com atuação em múltiplas frentes da infraestrutura tecnológica municipal.
+        
+          **Principais atividades:**<br>
+          - Manutenção e configuração de computadores, notebooks e impressoras<br>
+          - Manutenção preventiva em servidores de sites e bancos de dados SQL<br>
+          - Suporte à infraestrutura de rede interna e externa ao paço municipal<br>
+          - Auxílio na administração de sistemas de segurança<br>
+          - Implementação de ferramentas para aumento da eficiência operacional  
   - title: Educação
     layout: list
     content:
