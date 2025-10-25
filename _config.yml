@@ -61,18 +61,12 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Projeto MarktFlow
         link: https://github.com/GustavoMaxCardoso/Projeto-MarketFlow
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        link_text: Link para o repositório do projeto
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Sistema completo para automação de mercados desenvolvido em Java, incluindo PDV, controle de estoque, gestão financeira e relatórios analíticos. Trabalhei no backend e frontend, aplicando arquitetura MVC e metodologias ágeis.
+
+          **Tecnologias:** Java, MySQL, Git, MVC
+          **Funcionalidades:** PDV, Controle de Estoque, Relatórios Financeiros
   - title: Experiencia
     layout: list
     content:
