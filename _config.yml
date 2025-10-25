@@ -124,7 +124,7 @@ content:
           Instituição de ensino superior com foco em tecnologia e engenharia
         description: | # this will include new lines to allow paragraphs
           Graduação focada em desenvolvimento de software, banco de dados, engenharia de requisitos e gestão de projetos. Concluída com êxito no 2º semestre de 2024.<br>
-        link: /documents/Diploma_Facens.PDF
+        link: /assets/documents/Diploma_Facens.PDF
         link_text: Diploma Facens   
   - title: Um pouco mais sobre mim
     layout: text
