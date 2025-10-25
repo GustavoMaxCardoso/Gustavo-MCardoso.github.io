@@ -57,5 +57,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Contato
 
 - **LinkedIn:** [Gustavo Cardoso](https://www.linkedin.com/in/gustavo-cardoso-)
-- **E-mail:** [guhh.cardoso1@gmail.com](mailto:seu-email@provedor.com)
+- **E-mail:** [Gmail](mailto:guhh.cardoso1@gmail.com)
 - **GitHub:** [@GustavoMaxCardoso](https://github.com/GustavoMaxCardoso)
