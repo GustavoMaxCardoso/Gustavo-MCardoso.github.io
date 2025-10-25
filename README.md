@@ -52,8 +52,7 @@ Este projeto é fork-friendly! Sinta-se à vontade para usar como base para o se
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+Este projeto está sob a licença MIT.
 ## 📞 Contato
 
 - **LinkedIn:** [Gustavo Cardoso](https://www.linkedin.com/in/gustavo-cardoso-)
